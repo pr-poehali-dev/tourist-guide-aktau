@@ -61,6 +61,29 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Актау цветовая схема
+				desert: {
+					50: '#FFF8DC',
+					100: '#F4E4BC',
+					200: '#E6D3A3',
+					300: '#D2B48C',
+					400: '#CD853F',
+					500: '#A0522D',
+					600: '#8B4513',
+					700: '#654321',
+					800: '#4A2C17',
+					900: '#2F1B0C',
+				},
+				sand: {
+					DEFAULT: '#F4A460',
+					light: '#F5DEB3',
+					dark: '#D2691E',
+				},
+				ocean: {
+					DEFAULT: '#4682B4',
+					light: '#87CEEB',
+					dark: '#191970',
 				}
 			},
 			borderRadius: {
